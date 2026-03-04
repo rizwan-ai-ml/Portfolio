@@ -1,0 +1,15 @@
+{
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "amet",
+    "Chakra",
+    "favhand",
+    "favhands",
+    "onhover",
+    "resumebtn",
+    "Thakre"
+  ],
+  "errorLens.codeLensEnabled": true,
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.enable": true
+}

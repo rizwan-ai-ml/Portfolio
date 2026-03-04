@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Python",
+    "icon": "https://imgs.search.brave.com/13FkVpxNw2rYsuoMtIjzTInMeJ2Du0PHQseyFVxpPiQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LXB5dGhvbi1sb2dv/LWljb24tc3ZnLWRv/d25sb2FkLXBuZy0y/OTQ1MDk5LnBuZz9m/PXdlYnAmdz0yNTY",
+    "category": "Frontend"
+
+  },
+  {
+    "name": "Java",
+    "icon": "https://imgs.search.brave.com/2WrNtoz42lUBZJY-Zg5pHeWs2XjTyW2lFtrJCHSrVds/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9l/eHRlcm5hbC10YWwt/cmV2aXZvLWR1by10/YWwtcmV2aXZvLzEy/MDAvZXh0ZXJuYWwt/amF2YS1pcy1hLWdl/bmVyYWwtcHVycG9z/ZS1wcm9ncmFtbWlu/Zy1sYW5ndWFnZS10/aGF0LWlzLWNsYXNz/LWJhc2VkLWxvZ28t/ZHVvLXRhbC1yZXZp/dm8uanBn",
+    "category": "Frontend"
+
+  },
+  {
+    "name": "Flask",
+    "icon": "https://imgs.search.brave.com/wbYwonhF6wEI091gzEwpvdcF5myKJhQT7WKw48P-HA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zbWFs/bGltZy5wbmdrZXku/Y29tL3BuZy9zbWFs/bC85OC05ODUwMzJf/Zmxhc2stbG9nby1m/bGFzay1weXRob24t/aWNvbi5wbmc",
+    "category": "Frontend"
+
+  },
+  {
+    "name": "NumPy",
+    "icon": "https://imgs.search.brave.com/6m72AvJeAgpe6E9nt7sAGUcqfzBZZw9T0_0Fh-oSuzw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS40NzM1/MzQ3ODY1LjA4MTkv/cmFmLDM2MHgzNjAs/MDc1LHQsZmFmYWZh/OmNhNDQzZjQ3ODYu/anBn",
+    "category": "Frontend"
+  },
+  {
+    "name": "Panadas",
+    "icon": "https://img.icons8.com/fluency/48/000000/node-js.png",
+    "category": "Backend"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/color/48/000000/nodejs.png",
+    "category": "Backend"
+  },
+  {
+    "name": "Panadas",
+    "icon": "https://imgs.search.brave.com/sSvLIOVaAhtEygblp2Sj4vgNq1wtd7Q-rHBFDu9C4Ok/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9j/b2xvci8xMjAwL3Bh/bmRhcy5qcGc",
+    "category": "Frontend"
+  },
+  {
+    "name": "Matplotlib",
+    "icon": "https://imgs.search.brave.com/31XipM42rCGrKIcAY9GNs5cSBQOH6FPx7Q4ZkmE2bx8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RyZWFtbGlu/ZWhxLmNvbS9pbWFn/ZS9wcml2YXRlL3df/MzAwLGhfMzAwLGFy/XzEvZl9hdXRvL3Yx/L2ljb25zLzQvbWF0/cGxvdGxpYi1oMmp0/bDdrM2xuZHVwdGlu/MDZ4aTRnLnBuZy9t/YXRwbG90bGliLTJ1/bmNsNWkxbXc4cG44/YjA4bXNoNS5wbmc_/X2E9REFUQWcxY2Va/QUEw",
+    "category": "Frontend"
+  },
+  {
+    "name": "Power BI",
+    "icon": "https://imgs.search.brave.com/7HPy4r21jIz-8AjL00yWMIifvRnEXnj3rFHCUOhTN1c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21pY3Jv/c29mdC9Qb3dlckJJ/LUljb25zL3Jhdy9t/YWluL1BORy9JY29u/LU9ic29sZXRlMjAy/MEJsYWNrLnBuZw",
+    "category": "Frontend"
+  },
+  {
+    "name": "Seaborn",
+    "icon": "https://imgs.search.brave.com/NWA4QZcnAfcFQIevDsuiaOc20THHVjZNE2RdLf_jF1A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RyZWFtbGlu/ZWhxLmNvbS9pbWFn/ZS9wcml2YXRlL3df/MzAwLGhfMzAwLGFy/XzEvZl9hdXRvL3Yx/L2ljb25zLzIvc2Vh/Ym9ybi1tYXpzNWZz/dnM2bGx1cXNubWVp/azg5LnBuZy9zZWFi/b3JuLWI0cGRkb2gz/aGZnNGs4NXVnMG9h/em8ucG5nP19hPURB/VEFpWml1WkFBMA",
+    "category": "Frontend"
+  },
+
+  {
+    "name": "Scikit-learn",
+    "icon": "https://imgs.search.brave.com/VuZdYaDqjF18v-G_Dz3KJ3wrOTDH29wW3fCZv3FI_vE/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL3NjaWtpdC1s/ZWFybi5zdmc",
+    "category": "Frontend"
+  },
+  {
+    "name": "OpenCV",
+    "icon": "https://imgs.search.brave.com/PqPdjNbNhq6G1OpkEq3_TzV5JziNasGoCbFT9Nur8Yg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQxMzkv/b3BlbmN2LnN2Zw",
+    "category": "Frontend"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png",
+    "category": "Frontend"
+  },
+  {
+    "name": " FastAPI",
+    "icon": "https://imgs.search.brave.com/ejUhveGY2-K9IxwpgAGWxz3Kf5n-KyneIdg_UeTVVfo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS41NDMy/MTM1OTY4LjYzMDIv/cmFmLDM2MHgzNjAs/MDc1LHQsZmFmYWZh/OmNhNDQzZjQ3ODYu/anBn",
+    "category": "Frontend"
+  },
+  {
+    "name" : "TensorFlow",
+    "icon": "https://imgs.search.brave.com/JO7iCj8-Q0ErPUjPhHINn-cQK-xAYfubxHlIeN7V7uY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/dGVuc29yZmxvdy5z/dmc",
+    "category": "Frontend"
+  },
+  {
+    "name" : "Docker",
+    "icon": "https://imgs.search.brave.com/nHgWqDIU2imYYnmmGsm4UiFFZVVMWCgy2NHjp70YkwE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWRvY2tlci1pY29u/LXN2Zy1kb3dubG9h/ZC1wbmctMjUzODI4/OS5wbmc_Zj13ZWJw/Jnc9MjU2",
+    "category": "Frontend"
+  },
+  {
+    "name" : "XGBoost",
+    "icon": "https://imgs.search.brave.com/_5Tez9fBATr4X5JEDIDb4sDMnxNHdQqugjTqabvhIpA/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly94Z2Jv/b3N0LmFpL2ltYWdl/cy9sb2dvL3hnYm9v/c3QtbG9nby10cmlt/bWVkLnBuZw",
+    "category": "Frontend"
+  },
+  {
+    "name" : "VS Code",
+    "icon": "https://imgs.search.brave.com/Fag2MuKax-raYtKFaDtiB7ar3OzT9MUVfMx57At7ogg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzM4/MXl1L3N0eWxlcy9j/b21tdW5pdHlJY29u/XzJmN2hod2ZzNXBr/MzEucG5n",
+    "category": "Frontend"
+  },
+  {
+    "name" : "Jupyter Notebook",
+    "icon": "https://imgs.search.brave.com/IY0lEPWwScjEIDHKHQYvYNKekpoabTB8tsdfwFmS058/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/anVweXRlci5wbmc",
+    "category": "Frontend"
+  },
+  {
+    "name" : "Google Colab",
+    "icon": "https://imgs.search.brave.com/Z5-cLBc1KPe-u0OsXFniRnn56bhPCoyZ0MF3lvBN23s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9wbmcv/Z29vZ2xlLWNvbGFi/LnBuZw",
+    "category": "Frontend"
+  },
+  {
+    "name" : "Git & GitHub",
+    "icon": "https://imgs.search.brave.com/8GwN4YV_0w_nHWOKp-zGRJREnChEP02FaLCieXmQsP8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9z/Zi1ibGFjay8xMjAw/L2dpdGh1Yi5qcGc",
+    "category": "Frontend"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png",
+    "category": "Backend"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png",
+    "category": "Backend"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://img.icons8.com/color/48/000000/postgreesql.png",
+    "category": "Backend"
+  },
+  {
+    "name": "Netlify",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png",
+    "category": "Other"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/color/48/000000/git.png",
+    "category": "Other"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png",
+    "category": "Other"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "Keras",
+    "icon": "https://imgs.search.brave.com/XDt8qRFcrITtvkx9ylG1e8WUi7CNaPx0btl_ft563TU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aGFja3IuaW8vdXBs/b2Fkcy9wb3N0cy9h/dHRhY2htZW50cy8x/NjQ1NDY0ODI4WHFM/QlZSQm5kUi5wbmc",
+    "category": "Frontend"
+  },
+  {
+    "name": "PyTorch",
+    "icon": "https://imgs.search.brave.com/tyELoVnEG4lqkL0J0Aug7UT-dIVakodVYwQLwzE0iDM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RyZWFtbGlu/ZWhxLmNvbS9pbWFn/ZS9wcml2YXRlL3df/MzAwLGhfMzAwLGFy/XzEvZl9hdXRvL3Yx/L2ljb25zLzIvcHl0/b3JjaC1mNzFiaXgy/aHYxbmtvajZrcGM0/YWcucG5nL3B5dG9y/Y2gtNzNobndzbXp0/bmV5aXhoM2JncTli/YS5wbmc_X2E9REFU/QWlaaXVaQUEw",
+    "category": "Frontend"
+  },
+  {
+    "name": "Googling",
+    "icon": "https://img.icons8.com/color/48/000000/google-logo.png",
+    "category": "Other"
+  },
+  {
+    "name": "Postman",
+    "icon": "https://voyager.postman.com/logo/postman-logo-icon-orange.svg", 
+    "category": "Other"
+  },
+  {
+    "name" : "ChatGPT",
+    "icon" : "https://img.icons8.com/fluency/48/000000/chatgpt.png",
+    "category": "Other"
+  },
+  {
+    "name" : "VS Code",
+    "icon" : "https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png",
+    "category": "Other" 
+   }
+]

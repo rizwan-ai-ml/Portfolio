@@ -1,0 +1,23 @@
+[
+  {
+    "name": "stock-price-prediction",
+    "description": "A Stock Trend Prediction web application built using Deep Learning and Flask, designed to analyze historical market data and forecast future stock prices.",
+    "image": "./assets/images/img/stock.png",
+    "url": "https://stock-price-prediction-rizwan-ai-ml.vercel.app/",
+    "github": "https://github.com/rizwan-ai-ml/stock_price_prediction"
+  },
+  {
+    "name": "Credit Card Fraud Detection",
+    "description": "A machine learning project that detects fraudulent credit card transactions using classification algorithms.",
+    "image": "./assets/images/img/create123.png",
+    "url": "https://credit-card-fraud-detection-rizwan-ai-ml.vercel.app/",
+    "github": "https://github.com/rizwan-ai-ml/Credit-Card-Fraud-Detection-main"
+  },
+  {
+    "name": "Real-time-object-detection",
+    "description": "A real-time object detection system built using Deep Learning and OpenCV to identify and classify objects from live video streams.",
+    "image": "./assets/images/img/on.png",
+    "url": "https://Real-time-object-detection-rizwan-ai-ml.vercel.app/",
+    "github": "https://github.com/rizwan-ai-ml/Real-time-object-detection"
+  }
+]
