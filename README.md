@@ -5,13 +5,13 @@ A responsive and modern personal portfolio website to showcase my skills, AI/ML 
 ## 🔗 Live Demo
 
 <p>
-  <a href="https://swarajthakre26.netlify.app/" target="_blank" style="padding: 8px 16px; background-color: #28a745; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
+  <a href="https://rizwan-alam.vercel.app//" target="_blank" style="padding: 8px 16px; background-color: #28a745; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
     🌐 View Netlify Portfolio
   </a>
 </p>
 
 <p>
-  <a href="https://swarajthakre.github.io/Personal_portfolio/" target="_blank" style="padding: 8px 16px; background-color: #0366d6; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
+  <a href="https://github.com/rizwan-ai-ml/Portfolio/" target="_blank" style="padding: 8px 16px; background-color: #0366d6; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
     🔗 View GitHub Pages Portfolio
   </a>
 </p>
@@ -60,6 +60,6 @@ Feel free to reach me through the below handles if you'd like to contact me.
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/Rizwanalam/Personal_portfolio.git
-
+git clone git clone https://github.com/Rizwanalam/Personal_portfolio.git
+### Install dependencies:
 ```
